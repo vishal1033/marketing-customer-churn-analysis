@@ -188,6 +188,3 @@ Vishal Dubey — Statistics educator & researcher (Bayesian modeling, small
 area estimation). Same statistical rigor as Project 1 — leakage-aware
 labeling, calibration matched to data size, and cross-validated
 interpretability — applied to a marketing analytics setting.
-"# -marketing-customer-churn-analysis" 
-"# -marketing-customer-churn-analysis" 
-"# -marketing-customer-churn-analysis" 
